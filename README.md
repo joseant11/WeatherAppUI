@@ -2,7 +2,7 @@
 
 Una aplicación de clima creada con **Kotlin** y **Jetpack Compose** para Android. Muestra el clima actual y el pronóstico para diferentes horas y días, con un diseño moderno y dinámico.
 
-![Weather App UI](ruta/de/tu/imagen.png)
+![Weather App UI](app/src/main/res/App UI.png)
 
 ## Características
 
